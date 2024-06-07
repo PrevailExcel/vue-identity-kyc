@@ -1,0 +1,21 @@
+{
+    "name": "vue-identity-kyc",
+    "version": "1.0.0",
+    "description": "A Vue.js plugin for Prembly Identity Verification",
+    "main": "src/index.js",
+    "keywords": ["vue", "plugin", "identity", "KYC", "prembly", "nigeria-kyc", "VerifyMe"],
+    "author": "Chimeremeze Prevail Ejimadu",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/prevailexcel/vue-identity-kyc.git"
+    },
+    "bugs": {
+      "url": "https://github.com/prevailexcel/vue-identity-kyc/issues"
+    },
+    "homepage": "https://github.com/prevailexcel/vue-identity-kyc#readme",
+    "dependencies": {
+      "vue": "^3.0.0"
+    }
+  }
+  
